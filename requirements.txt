@@ -1,0 +1,7 @@
+flask==1.1.2
+sonora==0.2.1
+grpcio-tools
+mypy-protobuf
+flake8==3.9.0
+black==20.8b1
+mypy==0.812
